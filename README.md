@@ -1,4 +1,4 @@
 # creaton60.github.io
 
-blog : blessldk.blogspot.kr
-e-mail : lovmistake@gmail.com
+* blog : http://blessldk.blogspot.kr
+* e-mail : lovmistake@gmail.com
