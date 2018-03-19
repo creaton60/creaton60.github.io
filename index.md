@@ -20,8 +20,8 @@
    - 선임연구원
    - 2015.10 ~ 2018.3
    - 아이챗 API Server & Runner Server 설계 및 개발
-   - 커뮤니티 RPG 놀이터 서버 설계 및 개발
-	- https://play.google.com/store/apps/details?id=com.kudaha.noriter
+   - 커뮤니티 RPG 놀이터 서버 설계 및 개발
+   - https://play.google.com/store/apps/details?id=com.kudaha.noriter
 
 **어니언소프트웨어**
 
@@ -29,7 +29,7 @@
    - 2010.03 ~ 2013.06 
    - MK119 OPConsole 기능 개발 및 유지보수
    - MK119 Midknight Server 기능 개발 및 유지보수
-	- KT DataCenter 자동제어 시스템 및 서버관제 시스템 개발
+   - KT DataCenter 자동제어 시스템 및 서버관제 시스템 개발
 
 ## Information Technology Skills
 
