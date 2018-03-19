@@ -3,8 +3,7 @@
 ### Welcome https://github.com/creaton60
 
 ## Profile
-   협업과 백앤드 개발 및 많은 데이터를 효율적으로 수집하여 처리하는 방안에 대해 
-   많은 관심이 있으며 팀원이 모여서 재밌는 것을 만들 수 있다면 언제든지 좋아하는 개발자.
+   * Akka 와 비동기 프레임워크에 관심이 많은 서버 개발자 입니다.
 
 ## Link
    - github   : https://github.com/creaton60
@@ -16,23 +15,23 @@
    - 서울과학기술대학교 컴퓨터공학과 졸업 (2007.03 ~ 2016.02)
 
 ## Work Experience
-   **아이챗 연구원**
-   - 2015.10 ~ 2016.12
-   - 아이챗 놀이터 API Server & Runner Server 설계 및 개발
-   - IChatt Noriter : 모바일 온라인 커뮤니티 게임 
+   **쿠다하**
+   - 2015.10 ~ 2018.3
+   - 아이챗 API Server & Runner Server 설계 및 개발
+   - 커뮤니티 RPG 놀이터 서버 설계 및 개발
+	- https://play.google.com/store/apps/details?id=com.kudaha.noriter
 
-**어니언소프트웨어 연구원**
+**어니언소프트웨어**
+   - 연구원 
    - 2010.03 ~ 2013.06 
    - MK119 OPConsole 기능 개발 및 유지보수
    - MK119 Midknight Server 기능 개발 및 유지보수
+	- KT DataCenter 자동제어 시스템 및 서버관제 시스템 개발
 
 ## Information Technology Skills
 
 **Programming Languages**
   * Java
-  * JavaScript
-  * SQL
-  * HTML
 
 **Development Environments**
   * OS    : Linux , Mac , Windows
@@ -41,9 +40,9 @@
   * Project Manager Tools : RedMine
   * Operation Tools : AWS (EC2, RDS , S3 , Route53 , CloudFront )
   * DB    : MySQL, MSSQL, Redis , MongoDB
-  * Framework : Spring, Netty
+  * Framework : Spring, Netty, Akka
   * Coordination service : zookeeper
-  * Message Broker : ActiveMQ , RabbitMQ , Kafka
+  * Message Broker : RabbitMQ 
 
 ## Personal Project
 
