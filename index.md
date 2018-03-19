@@ -3,7 +3,7 @@
 ### Welcome https://github.com/creaton60
 
 ## Profile
-   * Akka 와 비동기 프레임워크에 관심이 많은 서버 개발자 입니다.
+   - Akka 와 비동기 프레임워크에 관심이 많은 서버 개발자 입니다.
 
 ## Link
    - github   : https://github.com/creaton60
@@ -18,7 +18,7 @@
    **쿠다하**
    
    - 선임연구원
-   - 2015.10 ~ 2018.3
+   - 2015.10 ~ 2018.3
    - 아이챗 API Server & Runner Server 설계 및 개발
    - 커뮤니티 RPG 놀이터 서버 설계 및 개발
    - https://play.google.com/store/apps/details?id=com.kudaha.noriter
