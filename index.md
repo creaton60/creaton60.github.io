@@ -35,6 +35,7 @@
 
 **Programming Languages**
   * Java
+  * JavaScript
 
 **Development Environments**
   * OS    : Linux , Mac , Windows
