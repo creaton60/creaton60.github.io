@@ -15,6 +15,13 @@
    - 서울과학기술대학교 컴퓨터공학과 졸업 (2007.03 ~ 2016.02)
 
 ## Work Experience
+   **띵스플로우**
+   - Server Developer
+   - 2018.04 ~ 현재
+   - 헬로우봇 API Server 1.0 feature 추가 개발
+   - 핼로우봇 API Server 2.0 설계 및 개발
+   - 핼로우봇 API Server 1.0 리팩토링
+  
    **쿠다하**
    
    - 선임연구원
@@ -39,12 +46,13 @@
 
 **Development Environments**
   * OS    : Linux , Mac , Windows
-  * Development Tools : Eclipse , WebStorm 
+  * Development Tools : IntelliJ, WebStorm, Eclipse
   * Test Framework : JUnit
   * Project Manager Tools : RedMine
   * Operation Tools : AWS (EC2, RDS , S3 , Route53 , CloudFront )
   * DB    : MySQL, MSSQL, Redis , MongoDB
-  * Framework : Spring, Netty, Akka
+  * Framework : Spring, Netty
+  * Toolkit : Akka
   * Coordination service : zookeeper
   * Message Broker : RabbitMQ 
 
