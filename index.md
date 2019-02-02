@@ -16,6 +16,8 @@
 
 ## Work Experience
    **띵스플로우**
+   
+   - 서버 
    - Server Developer
    - 2018.04 ~ 현재
    - 헬로우봇 API Server 1.0 feature 추가 개발
