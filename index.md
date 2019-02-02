@@ -21,6 +21,7 @@
    - 헬로우봇 API Server 1.0 feature 추가 개발
    - 핼로우봇 API Server 2.0 설계 및 개발
    - 핼로우봇 API Server 1.0 리팩토링
+   - 핼로우봇 스튜디오 (챗봇 빌더) API Server 설계 및 개발
   
    **쿠다하**
    
