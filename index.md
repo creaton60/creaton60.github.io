@@ -6,10 +6,12 @@
    - Akka 와 비동기 프레임워크에 관심이 많은 서버 개발자 입니다.
 
 ## Link
-   - github   : https://github.com/creaton60
-   - blog     : http://blessldk.blogspot.kr
-   - email    : lovmistake@gmail.com
-   - facebook : http://facebook.com/creaton60
+   - github     : https://github.com/creaton60
+   - blog       : http://blessldk.blogspot.kr
+   - email      : lovmistake@gmail.com
+   - facebook   : http://facebook.com/creaton60
+   - slideshare : https://www.slideshare.net/ssusera1c1be
+   - linkedIn   : https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EC%9D%B4-4aa61262/
 
 ## Education
    - 서울과학기술대학교 컴퓨터공학과 졸업 (2007.03 ~ 2016.02)
