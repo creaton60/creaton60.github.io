@@ -59,7 +59,7 @@
   * Framework : Spring, Netty
   * Toolkit : Akka
   * Coordination service : zookeeper
-  * Message Broker : RabbitMQ 
+  * Message Broker : RabbitMQ 
 
 ## Personal Project
    * Card Game (개발중)
