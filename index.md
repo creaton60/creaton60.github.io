@@ -8,10 +8,11 @@
 ## Link
    - github     : https://github.com/creaton60
    - blog       : http://blessldk.blogspot.kr
+   - study      : https://github.com/creaton60/study-any
    - email      : lovmistake@gmail.com
    - facebook   : http://facebook.com/creaton60
    - slideshare : https://www.slideshare.net/ssusera1c1be
-   - linkedIn   : https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EC%9D%B4-4aa61262/
+   - linkedIn   : https://www.linkedin.com/in/creaton60
 
 ## Education
    - 서울과학기술대학교 컴퓨터공학과 졸업 (2007.03 ~ 2016.02)
@@ -34,7 +35,7 @@
    - 커뮤니티 RPG 놀이터 서버 설계 및 개발
    - https://play.google.com/store/apps/details?id=com.kudaha.noriter
 
-**어니언소프트웨어**
+   **어니언소프트웨어**
 
    - 연구원 
    - 2010.03 ~ 2013.06 
@@ -61,6 +62,15 @@
   * Message Broker : RabbitMQ 
 
 ## Personal Project
+   * Card Game (개발중)
+     - Client 는 Unity 로 개발
+     - Game Rule : https://github.com/creaton60/CardGameClient/wiki
+     - Server 는 Java/Kotlin (With Stpring), Akka ( in Java) , Go 로 각각 개발
+      
 
 
+## Personal Presentation
+   * Akka Basic 1 (개요 + 구조) : https://www.slideshare.net/ssusera1c1be/akka-basic-1
+   * Akka Basic 2 (결함허용 + 라이프싸이클) : https://www.slideshare.net/ssusera1c1be/akka-basic-2
+   * Akka Basic 3 (Akka Future) : https://www.slideshare.net/ssusera1c1be/20171111-akka3
    
