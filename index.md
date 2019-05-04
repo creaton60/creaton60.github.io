@@ -3,8 +3,8 @@
 ### Welcome https://github.com/creaton60
 
 ## Profile
-   - Akka 와 비동기 프레임워크에 관심이 많은 서버 개발자 입니다.
-
+   - 동시성 모델을 좋아하고 시스템 설계를 좋아하는 개발자.
+ 
 ## Link
    - github     : https://github.com/creaton60
    - blog       : http://blessldk.blogspot.kr
