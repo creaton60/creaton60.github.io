@@ -53,18 +53,21 @@
 **Programming Languages**
   * Java
   * JavaScript
+  * kotlin
 
 **Development Environments**
   * OS    : Linux , Mac , Windows
   * Development Tools : IntelliJ, WebStorm, Eclipse
   * Test Framework : JUnit
-  * Project Manager Tools : RedMine
+  * Project Manager Tools : RedMine, Jira, Notion
   * Operation Tools : AWS (EC2, RDS , S3 , Route53 , CloudFront )
+  * Cluster Manager System : kubernetes
+  * CI/CD : travisCI, Jenkins, Spinnaker, CodeDeploy
   * DB    : MySQL, MSSQL, Redis , MongoDB
   * Framework : Spring, Netty
   * Toolkit : Akka
   * Coordination service : zookeeper
-  * Message Broker : RabbitMQ 
+  * Message Broker : RabbitMQ
 
 ## Personal Project
    * Card Game (개발중)
