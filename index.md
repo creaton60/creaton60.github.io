@@ -7,10 +7,7 @@
  
 ## Link
    - github     : https://github.com/creaton60
-   - blog       : http://blessldk.blogspot.kr
-   - study      : https://github.com/creaton60/study-any
    - email      : lovmistake@gmail.com
-   - facebook   : http://facebook.com/creaton60
    - slideshare : https://www.slideshare.net/ssusera1c1be
    - linkedIn   : https://www.linkedin.com/in/creaton60
 
@@ -73,12 +70,6 @@
   * Message Broker : RabbitMQ
 
 ## Personal Project
-   * Card Game (개발중)
-     - Client 는 Unity 로 개발
-     - Game Rule : https://github.com/creaton60/CardGameClient/wiki
-     - Server 는 Java/Kotlin (With Stpring), Akka ( in Java) , Go 로 각각 개발
-      
-
 
 ## Personal Presentation
    * Akka Basic 1 (개요 + 구조) : https://www.slideshare.net/ssusera1c1be/akka-basic-1
