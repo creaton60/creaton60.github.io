@@ -1,4 +1,4 @@
-# DongKyu Lee
+# DongGyu Lee
 
 ### Welcome https://github.com/creaton60
 
@@ -7,7 +7,7 @@
  
 ## Link
    - github     : https://github.com/creaton60
-   - email      : lovmistake@gmail.com
+   - email      : creaton.leee@gmail.com
    - slideshare : https://www.slideshare.net/ssusera1c1be
    - linkedIn   : https://www.linkedin.com/in/creaton60
 
